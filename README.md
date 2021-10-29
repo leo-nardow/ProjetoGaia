@@ -78,7 +78,7 @@
    alt="Douglas Lopes"/><br /><sub style="font-size: 14px"><b>Douglas Lopes</b></sub><br /> 
   <a href="https://www.linkedin.com/in/douglas-lpsouza/" target="_blank" alt="Linkedin">
   <br>
-<img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/douglas-lpsouza/" style= "width:90px;"/>
+<img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/douglas-lpsouza/" target="_blank" style= "width:90px;"/>
   </a>
 
 
@@ -87,7 +87,7 @@
   alt="Julianna Caravetto"/><br /><sub><b>Julianna Caravetto</b></sub></a><br /> 
   <a href="https://www.linkedin.com/in/julianna-caravetto/" target="_blank" alt="Linkedin">
   <br>
-<img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/julianna-caravetto/"  style= "width:90px;"/>
+<img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/julianna-caravetto/" target="_blank" style= "width:90px;"/>
   </a>
 
   <td align="center"><img style="width: 70%"
@@ -95,14 +95,14 @@
   alt="Leonardo Almeida"/><br /><sub><b>Leonardo Almeida</b></sub></a><br />
   <a href="https://www.linkedin.com/in/leo-nardow/" target="_blank" alt="Linkedin">
   <br>
-<img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/leo-nardow/" style= "width:90px;"/>
+<img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/leo-nardow/" target="_blank" style= "width:90px;"/>
   </a>
  
   <td align="center"><img style="width: 70%"
   src="https://cdn.discordapp.com/attachments/892048100582109274/892795193387008000/Tai_circle.png"  alt="Tainan Luz"/><br /><sub><b>Tainan Luz</b></sub></a><br />
    <a href="https://www.linkedin.com/in/tainan-luz-442694218/" target="_blank" alt="Linkedin">
   <br>
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/tainan-luz-442694218/"  style= "width:90px;"/>
+  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/tainan-luz-442694218/" target="_blank" style= "width:90px;"/>
   </a>
   </tr>
 </table>
